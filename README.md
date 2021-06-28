@@ -1,20 +1,20 @@
 # Data-structures-and-Algorithms
 
 •	Stack<br/>
-•	Infix to postfix
-•	Circular queue
-•	Queue
-•	Binary search
-•	Linked list
-•	BST
-•	BFS & DFS
-•	Insertion sort
-•	Selection sort
-•	Merge sort
-•	Quicksort
-•	All pairs shortest path
-•	Djikshtra’s shortest path algorithm
-•	Fractional knapsack
-•	Graph coloring
-•	LCS
+•	Infix to postfix<br/>
+•	Circular queue<br/>
+•	Queue<br/>
+•	Binary sea<br/>rch
+•	Linked list<br/>
+•	BST<br/>
+•	BFS & DFS<br/>
+•	Insertion sort<br/>
+•	Selection sort<br/>
+•	Merge sort<br/>
+•	Quicksort<br/>
+•	All pairs shortest path<br/>
+•	Djikshtra’s shortest path algorithm<br/>
+•	Fractional knapsack<br/>
+•	Graph coloring<br/>
+•	LCS<br/>
 •	Chain Matrix multiplication
