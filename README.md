@@ -1,6 +1,6 @@
 # Data-structures-and-Algorithms
 
-•	Stack
+•	Stack \n
 •	Infix to postfix
 •	Circular queue
 •	Queue
