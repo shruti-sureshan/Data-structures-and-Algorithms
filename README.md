@@ -4,7 +4,7 @@
 •	Infix to postfix<br/>
 •	Circular queue<br/>
 •	Queue<br/>
-•	Binary sea<br/>rch
+•	Binary search<br/>
 •	Linked list<br/>
 •	BST<br/>
 •	BFS & DFS<br/>
