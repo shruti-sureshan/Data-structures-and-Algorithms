@@ -13,7 +13,7 @@
 •	Merge sort<br/>
 •	Quicksort<br/>
 •	All pairs shortest path<br/>
-•	Djikshtra’s shortest path algorithm<br/>
+•	Dijkshtra’s shortest path algorithm<br/>
 •	Fractional knapsack<br/>
 •	Graph coloring<br/>
 •	LCS<br/>
